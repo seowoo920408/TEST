@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\seowoo92\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{933E9BD7-15C7-42EC-86EA-4EF4FD21C0D7}|seowoo92\\seowoo92.csproj|c:\\users\\user\\desktop\\seowoo92\\seowoo92\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{933E9BD7-15C7-42EC-86EA-4EF4FD21C0D7}|seowoo92\\seowoo92.csproj|solutionrelative:seowoo92\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C736473-BD7F-17A6-2E72-44BA477D1997}|seowoo92\\seowoo92.csproj|c:\\users\\user\\desktop\\seowoo92\\seowoo92\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C736473-BD7F-17A6-2E72-44BA477D1997}|seowoo92\\seowoo92.csproj|solutionrelative:seowoo92\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "seowoo92\\Command.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\seowoo92\\seowoo92\\Command.cs",
               "RelativeToolTip": "seowoo92\\Command.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T00:20:46.225Z",
               "EditorCaption": ""
