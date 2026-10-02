@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\seowoo92\seowoo92\obj\Debug\net8.0\seowoo92.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\seowoo92\seowoo92\obj\Debug\net8.0\seowoo92.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\seowoo92\seowoo92\obj\Debug\net8.0\seowoo92.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\seowoo92\seowoo92\obj\Debug\net8.0\seowoo92.AssemblyInfo.cs
+C:\Users\User\Desktop\seowoo92\seowoo92\obj\Debug\net8.0\seowoo92.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\seowoo92\seowoo92\obj\Debug\net8.0\seowoo92.sourcelink.json
